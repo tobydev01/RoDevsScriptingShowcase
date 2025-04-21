@@ -1,0 +1,1 @@
+local QuestManager = require(game.ReplicatedStorage.QuestFramework.Modules.QuestManager)
